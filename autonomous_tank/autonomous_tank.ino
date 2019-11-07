@@ -26,8 +26,6 @@ int green = 24;
 int yellow = 28;
 int red = 26;
 
-
-
 //Servo servo1;
 //Servo servo2;
 //int pos =0;
