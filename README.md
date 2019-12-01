@@ -4,4 +4,7 @@ Script/Program created and developed by Kirisan Manivannan and Rahmat Mozafari @
 Specs:
 Two ultrasound sensor - front, One ultrasound sensor - back.
 Two motordrivers
+SONAR is 50% done, remains processing part.
+Sound execution works fine on raspberry Pi 3.
+
 
