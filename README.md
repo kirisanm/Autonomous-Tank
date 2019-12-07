@@ -6,5 +6,5 @@ Two ultrasound sensor - front, One ultrasound sensor - back.
 Two motordrivers
 SONAR is 50% done, remains processing part.
 Sound execution works fine on raspberry Pi 3.
-
+The final product: https://www.youtube.com/watch?v=HAhpTGiK6eU&t=59s
 
